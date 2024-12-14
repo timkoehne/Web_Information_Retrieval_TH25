@@ -1,3 +1,7 @@
 ai_index
 ai_index_mult
 *.pkl
+venv
+index
+saved_runs
+__pycache__
