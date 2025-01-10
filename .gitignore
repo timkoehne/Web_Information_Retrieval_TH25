@@ -3,5 +3,6 @@ ai_index_mult
 *.pkl
 venv
 index
+index-*
 saved_runs
 __pycache__
